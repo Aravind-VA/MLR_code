@@ -332,22 +332,6 @@ Through this project, I developed practical understanding of:
 
 ---
 
-## 🚀 Future Improvements
-
-Potential improvements to the project include:
-
-* Applying **One-Hot Encoding** to the `State` variable instead of manually assigning numerical values.
-* Performing exploratory data analysis and visualization.
-* Checking correlations between independent variables.
-* Testing for multicollinearity using **VIF**.
-* Comparing Linear Regression with other regression algorithms.
-* Adding input validation to the Flask application.
-* Improving the frontend interface.
-* Deploying the application using a cloud platform.
-* Adding automated model performance monitoring.
-
----
-
 ## 👨‍💻 Author
 
 **Aravind Vemuri**
